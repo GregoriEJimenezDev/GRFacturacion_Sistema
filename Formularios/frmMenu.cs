@@ -1,0 +1,1 @@
+frmFactura frm = new frmFactura("", "");
