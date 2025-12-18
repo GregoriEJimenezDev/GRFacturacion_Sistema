@@ -60,8 +60,11 @@
 ℍ𝕒𝕓𝕚𝕝𝕚𝕕𝕒𝕕𝕖𝕤 𝕒𝕡𝕣𝕖𝕟𝕕𝕚𝕕𝕒𝕤:
 
 *Conecion a base de datos sql server 
+
 *Manejo de errores catch 
+
 *Programacion orientada a objetos POO
+
 *Creaciones de clases
 
 
