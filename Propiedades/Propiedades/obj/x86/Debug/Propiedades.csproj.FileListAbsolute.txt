@@ -1,0 +1,7 @@
+C:\Users\enrique.munguia\Documents\Curso C#\Propiedades\Propiedades\bin\Debug\Propiedades.exe
+C:\Users\enrique.munguia\Documents\Curso C#\Propiedades\Propiedades\bin\Debug\Propiedades.pdb
+C:\Users\enrique.munguia\Documents\Curso C#\Propiedades\Propiedades\obj\x86\Debug\Propiedades.csprojResolveAssemblyReference.cache
+C:\Users\enrique.munguia\Documents\Curso C#\Propiedades\Propiedades\obj\x86\Debug\Propiedades.exe
+C:\Users\enrique.munguia\Documents\Curso C#\Propiedades\Propiedades\obj\x86\Debug\Propiedades.pdb
+C:\pro\Propiedades\Propiedades\obj\x86\Debug\Propiedades.exe
+C:\pro\Propiedades\Propiedades\obj\x86\Debug\Propiedades.pdb
